@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82a8d2b0-db26-4d4e-9071-fed519415b91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kY81QaC3dMUWJPhbrNpYazujTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CodeWithMe" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a8d2b0-db26-4d4e-9071-fed519415b91" name="Default Changelist" comment="" />
+      <created>1605865949958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605865949958</updated>
+      <workItem from="1605865951559" duration="11478000" />
+      <workItem from="1606935000736" duration="11070000" />
+      <workItem from="1607021229048" duration="6675000" />
+      <workItem from="1607028079348" duration="4992000" />
+      <workItem from="1607095370399" duration="6243000" />
+      <workItem from="1607346644011" duration="2302000" />
+      <workItem from="1607371491071" duration="13058000" />
+      <workItem from="1607440002052" duration="3936000" />
+      <workItem from="1607514006415" duration="20675000" />
+      <workItem from="1607539012360" duration="490000" />
+      <workItem from="1607591314221" duration="1983000" />
+      <workItem from="1607593611413" duration="599000" />
+      <workItem from="1607606221532" duration="3605000" />
+      <workItem from="1608206012716" duration="6173000" />
+      <workItem from="1608291319070" duration="19967000" />
+      <workItem from="1608374495050" duration="10122000" />
+      <workItem from="1608402978796" duration="13000" />
+      <workItem from="1608550028573" duration="16411000" />
+      <workItem from="1608583115419" duration="11441000" />
+      <workItem from="1608624270866" duration="3108000" />
+      <workItem from="1608660850885" duration="6407000" />
+      <workItem from="1609523156697" duration="295000" />
+      <workItem from="1609523839803" duration="35000" />
+      <workItem from="1609523954818" duration="45000" />
+      <workItem from="1610101529127" duration="609000" />
+      <workItem from="1613079309606" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
