@@ -2,7 +2,7 @@
 
 This instant messaging application (MI) allows the exchange of messages between users following a P2P model and using a protocol of MI addresses. It works on top of the TCP layer and integrates another application called LUMI to localize users by their MI address. LUMI works on top of UDP and follows an architecture Client-Server. There are a set of servers that maintain the information of users in the same domain. This server is iterative and uses the PLUMI protocol and DNS to register, deregister and localize users. These LUMI servers are also called nodes. The MI application exchange protocol messages with its LUMI node using a LUMI agent. This allows localizing users and retrieving their MI addresses to start a conversation. The exchange of messages between users happens in real-time, sending and receiving MI packets that travel in TCP.
 
-![Architecture](architecture.png)
+![Architecture](documentation/architecture.png)
 
 ## Agent
 
