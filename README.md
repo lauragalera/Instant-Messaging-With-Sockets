@@ -17,12 +17,13 @@ This instant messaging application (MI) allows the exchange of messages between 
 ## Node
 
 * The domain name is the same as the computer's DNS name. 
-* A nodelumi.cfg file is read at the begining and contains the domain name and a list of users who are available in the domain.
-* The administrator can register, deregistre and list user from the node's interface.
+* A nodelumi.cfg file is read at the beginning and contains the domain name and a list of users who belong to the domain.
+* The administrator can register, deregistre and list users from the node's interface.
 * The local node talks to remote nodes to find the @MI of a remote user (proxy).
 
-To echance the application there is also 
-Everytime a LUMI agent and LUMI node exchange a message a new line is added to a log file. The line states if the message was sent or recieved, @IP and #port UDP remot, the message content and the number of bytes.
+Every time a LUMI agent and LUMI node exchange a message, a new line is added to a log file. The line states if the message was sent or received, @IP and #port UDP remote, the message content, and the number of bytes.
 
-The PDF in this repository explains in more detail the architecture and its implementation. It is in Catalan.
+To enhance the application, it has a new feature that displays a message explaining why a register, deregister, or localization has not been possible. Moreover, if an online user receives five localization petitions without the agent ever returning a message, it is considered he went offline unexpectedly. 
+
+The PDF in this repository explains the architecture and its implementation in more detail. It is in Catalan.
 
